@@ -16,17 +16,15 @@ Name : Arifian Saputra
 
 # Tech Stack
 
+- CSS
+ 
 - JavaScript
+ 
+- HTML
 
 - Python
- 
+
 - Dockerfile
-
-- HTML
- 
-- CSS
-
-- Shell
 
 # Credits
 
